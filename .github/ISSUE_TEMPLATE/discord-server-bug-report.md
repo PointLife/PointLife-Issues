@@ -2,7 +2,7 @@
 name: Discord Server Bug Report
 about: Create a bug report for a issue in Discord
 title: "[DISCORD-BUG] "
-labels: discord, bug
+labels: bug, discord
 assignees: ''
 
 ---
