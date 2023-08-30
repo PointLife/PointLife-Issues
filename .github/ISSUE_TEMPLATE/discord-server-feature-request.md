@@ -1,7 +1,7 @@
 ---
 name: Discord Server Feature Request
 about: Suggest an idea for Discord Server
-title: ''
+title: "[DISCORD-Feature]"
 labels: discord, enhancement
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
 name: BrokeProtocol Server Feature Request
 about: Suggest an idea for Broke Protocol Server
-title: ''
+title: "[BP-Feature] "
 labels: brokeprotocol, enhancement
 assignees: ''
 
